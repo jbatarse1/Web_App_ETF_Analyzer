@@ -52,14 +52,18 @@ Then produce the following:
 **1st. Analyze the ETF Portfolio**
 
     * Interactive visualization for the PYPL daily returns
-   
+    
+   <img width="1130" alt="Screen Shot 2022-02-20 at 8 00 17 PM" src="https://user-images.githubusercontent.com/93550651/154895271-c1b7cac5-16d8-4324-95e9-1c852e63b2ee.png">
+
    
     *  interactive visualization for the PYPL cumulative returns
+<img width="1019" alt="Screen Shot 2022-02-20 at 8 15 33 PM" src="https://user-images.githubusercontent.com/93550651/154895304-d2ce13c2-f5c5-4897-9132-82722e3b7cc3.png">
 
 
 **2nd. Optimize Data Access with Advanced SQL Queries **
 
     *  interactive visualization for the PYPL cumulative returns
+<img width="1023" alt="Screen Shot 2022-02-20 at 8 18 43 PM" src="https://user-images.githubusercontent.com/93550651/154895333-0df9f894-e006-412a-a02b-d52b687e9990.png">
 
 
 
