@@ -69,7 +69,10 @@ Then produce the following:
 
     * Web Application video
 
+<<<<<<< Updated upstream
 <img width="1920" alt="Screen Shot 2022-02-20 at 10 14 17 PM" src="https://user-images.githubusercontent.com/93550651/154899561-fb42550a-c264-4e54-9de6-3a746ca25820.png">
+=======
+>>>>>>> Stashed changes
 
 
 The images above illustrates the results.
