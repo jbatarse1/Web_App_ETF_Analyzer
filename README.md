@@ -72,7 +72,7 @@ Then produce the following:
     
 **4th. Deploying Voila **
 
-    * Utilize hvPlot with GeoViews enabled to create points for map
+    * Web Application video
 
 
 
