@@ -51,19 +51,20 @@ Then produce the following:
 
 **1st. Analyze the ETF Portfolio**
 
-    * groupby function utilized to aggregate housing units yearly averages
-    
-
+    * Interactive visualization for the PYPL daily returns
+   
+   
+    *  interactive visualization for the PYPL cumulative returns
 
 
 **2nd. Optimize Data Access with Advanced SQL Queries **
 
-    * grouby function utilized to aggregate year averages
+    *  interactive visualization for the PYPL cumulative returns
 
 
 
 
-**3rd. Analyze the ETF Portfolio **
+**3rd.Analyze the Fintech ETF Portfolio **
     
     * grouby function utilized to aggregate Neighborhood yearly averages
     
