@@ -69,7 +69,7 @@ Then produce the following:
 
     * Web Application video
 
-
+Screen Recording 2022-02-20 at 9.53.44 PM
 
 The images above illustrates the results.
 
