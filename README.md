@@ -45,40 +45,39 @@ Steps for running application:
 
 *Import required dependencies and library*
 
-*Read CSV files into DataFrame*
+*Programming SQL into Application*
 
-Then produce 4 visuals to interpret data and information. They are:
+Then produce the following:
 
-**1st. Calculate and Bar Plot the Housing Units per Year**
+**1st. Analyze the ETF Portfolio**
 
     * groupby function utilized to aggregate housing units yearly averages
     
-<img width="712" alt="Housing Units Bar Plot" src="https://user-images.githubusercontent.com/93550651/153762181-0786c334-2018-49f4-b6e1-e1db0771ca20.png">
 
 
-**2nd. Calculate and Line Plot the Average Sale Prices per Square Foot**
+
+**2nd. Optimize Data Access with Advanced SQL Queries **
 
     * grouby function utilized to aggregate year averages
 
-<img width="786" alt="Line Bar Price and Rent" src="https://user-images.githubusercontent.com/93550651/153762303-fb507198-5685-4598-8b3e-0238616f4192.png">
 
 
-**3rd. Line Plot and compare the Average Sale Prices by Neighborhood**
+
+**3rd. Analyze the ETF Portfolio **
     
     * grouby function utilized to aggregate Neighborhood yearly averages
     
-<img width="994" alt="Line Bar by Neighborhood" src="https://user-images.githubusercontent.com/93550651/153762315-a8241d33-2cb6-413a-81ec-cce5500842d8.png">
 
     
-**4th. Build an Interactive Neighborhood Map**
+**4th. Deploying Voila **
 
     * Utilize hvPlot with GeoViews enabled to create points for map
 
-<img width="900" alt="Interactive Map" src="https://user-images.githubusercontent.com/93550651/153762345-e68075be-dee8-4ee2-afb7-1bc580dfcb4b.png">
+
 
 The images above illustrates the results.
 
-In conclusion: Data Story composed.
+In conclusion: Buy Bitcoin and Cryptocurrency ETF. This will result in much greater returns than the S&P500.
 
 ## Contributors
 
