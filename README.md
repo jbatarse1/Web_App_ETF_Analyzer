@@ -69,11 +69,11 @@ Then produce the following:
 
     * Web Application video
 
-Screen Recording 2022-02-20 at 9.53.44 PM
+<img width="1920" alt="Screen Shot 2022-02-20 at 10 14 17 PM" src="https://user-images.githubusercontent.com/93550651/154899561-fb42550a-c264-4e54-9de6-3a746ca25820.png">
+
 
 The images above illustrates the results.
 
-In conclusion: Buy Bitcoin and Cryptocurrency ETF. This will result in much greater returns than the S&P500.
 
 ## Contributors
 
